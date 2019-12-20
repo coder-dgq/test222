@@ -9,7 +9,8 @@
 - git add ./readme.md
 - git commit -m "存入readme"
 - "存入readme"是一段说明
-- 也可以“git add ./” （添加所有修改的文件）
+- 也可以“git add ./” （把所有修改的文件添加到仓库）
+- git commit --all -m "一些说明" (一次性把修改的文件提交到版本库)
 ### 修改提交
 - q!回退界面
 - 按git add “要提交的文件”，接着git commit -m "提交说明"的方式提交

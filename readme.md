@@ -32,7 +32,14 @@
 ### 合并分支
 - git merge dev 把当前分支与指定分支（dev）进行合并
 - git branch 输出结果中前面有*号的分支是当前分支
-
+- 合并有时会冲突，需要手动处理，处理后再提交一次
+### GitHub
+- https://github.com(网站)
+- GitHub网站提供了允许通过git上传代码的功能
+### 提交代码到github（当作git服务器来用）
+- `git push [地址] master`
+    + 示例：`git push https://github.com/coder-dgq/test222.git master`
+    + 把当前分支的内容上传到远程的master分支上
 
 
 

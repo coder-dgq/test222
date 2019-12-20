@@ -32,7 +32,7 @@
 ### 合并分支
 - git merge dev 把当前分支与指定分支（dev）进行合并
 - git branch 输出结果中前面有*号的分支是当前分支
-master分支完成
+
 
 
 

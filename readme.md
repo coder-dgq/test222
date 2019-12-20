@@ -9,10 +9,14 @@
 - git add ./readme.md
 - git commit -m "存入readme"
 - "存入readme"是一段说明
+- 也可以“git add ./” （添加当前文件夹的全部文件）
 ### 修改提交
 - q!回退界面
 - 按git add “要提交的文件”，接着git commit -m "提交说明"的方式提交
-##
+### 查看当前状态
+- git status
+- 可以用来检查当前代码是否放入仓库中
+
 
 
 

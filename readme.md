@@ -40,7 +40,8 @@
 - `git push [地址] master`
     + 示例：`git push https://github.com/coder-dgq/test222.git master`
     + 把当前分支的内容上传到远程的master分支上
-
+- `git pull [地址] master`(拉取数据，得到远程分支数据，注意这里要先在本地初始化一个仓库)
+- `git clone [地址]`得到远程仓库的数据，多次执行会覆盖
 
 
 

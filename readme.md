@@ -20,7 +20,7 @@
 ### 查看日志
 - git log
 - git log --oneline (简洁版日志)
-- .gitignore文件的作用：不提交指定路径的文件到仓库,写法：
+- .gitignore文件的作用：不提交指定路径的文件到仓库,创建.gitignore文件并提交到仓库，写法：
     + *`/.idea` 忽略.idea文件
     + *`/ddd` 忽略ddd文件夹所有文件
     + *`/ddd/*.js` 忽略ddd目录下所有js文件

@@ -25,6 +25,14 @@
     + *`/ddd` 忽略ddd文件夹所有文件
     + *`/ddd/*.js` 忽略ddd目录下所有js文件
 - git reflog可以看到切换版本的记录以及所有提交的版本号
+### 分支的创建和切换
+- git branch dev (创建名为dev的分支，该分支刚创建时的内容与master分支的相同)
+- git branch (查看当前有哪些分支)
+- git checkout dev (切换到名为dev的分支)
+### 合并分支
+- git merge dev 把当前分支与指定分支（dev）进行合并
+- git branch 输出结果中前面有*号的分支是当前分支
+
 
 
 
